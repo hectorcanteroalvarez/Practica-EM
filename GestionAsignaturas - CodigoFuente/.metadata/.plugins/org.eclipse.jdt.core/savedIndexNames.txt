@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Héctor\Desktop\Parte 1 - Material Practica 20-21 (codigo app legacy)\GestionAsignaturas - CodigoFuente\.metadata\.plugins\org.eclipse.jdt.core
